@@ -1,6 +1,6 @@
 # Automobile Statistics Dashboard
 
-This is the final project for the [https://www.coursera.org/learn/python-for-data-visualization](IBM Data Visualization with Python) course on Coursera. The dashboard is designed to provide insights into automobile sales and related statistics, with a focus on yearly and recession period analyses. This projects primarily utilizes Dash and Plotly libraries and demonstrates foundational skills in data visualization. 
+This is the final project for the [IBM Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) course on Coursera. The dashboard is designed to provide insights into automobile sales and related statistics, with a focus on yearly and recession period analyses. This projects primarily utilizes Dash and Plotly libraries and demonstrates foundational skills in data visualization. 
 
 ## Getting Started
 
@@ -51,11 +51,11 @@ Feel free to explore and gain insights into the historical automobile sales data
 
 ## Author
 
-Ezra Hsieh
+[Ezra Hsieh](https://github.com/EzraHsieh/)
 
 ## Acknowledgments
 
-- This project was completed as part of the [https://www.coursera.org/learn/python-for-data-visualization](IBM Data Visualization with Python course on Coursera).
+- This project was completed as part of the [IBM Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization).
 - Special thanks to Dr. Pooja for designing the project assignment and skeleton code. 
 - Thanks to Saishruthi Swaminathanand, other course instructors, and the IBM Developer Skills Network for providing the dataset and guidance throughout the course.
 
