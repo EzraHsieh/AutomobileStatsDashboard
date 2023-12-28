@@ -1,5 +1,5 @@
 # Automobile Statistics Dashboard
-[Screenshot of Recession Period Statistics Page with 4 plots](RecessionReportGraphs.png)
+![Screenshot of Recession Period Statistics Page with 4 plots](RecessionReportGraphs.png)
 This is the final project for the [IBM Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) course on Coursera. The dashboard is designed to provide insights into automobile sales and related statistics, with a focus on yearly and recession period analyses. This projects primarily utilizes Dash and Plotly libraries and demonstrates foundational skills in data visualization. 
 
 ## Getting Started
